@@ -17,7 +17,7 @@ import fnmatch
 
 dirRicette = 'Ricette'
 dirImmagini = 'WV/image/'
-os.chdir('')
+os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
 
 document = []
