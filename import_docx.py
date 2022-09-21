@@ -17,7 +17,7 @@ import fnmatch
 
 dirRicette = 'Ricette'
 dirImmagini = 'WV/image/'
-os.chdir('C:/Users/ipers/Desktop/ITS/CERRI/AUDIT/py/WORDS')
+os.chdir('')
 
 
 document = []
